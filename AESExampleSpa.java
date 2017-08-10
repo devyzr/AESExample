@@ -1,5 +1,5 @@
 /*
-    Para que estp funcione es necesario descargar e insatlar el JCE Unlimited
+    Para que esto funcione es necesario descargar e insatlar el JCE Unlimited
     Strength Jurisdiction Policy Files (archivos de poliza de jurisdicción de
     fuerza de encripción ilimitada), se pueden encontrar para Java 8 aqui:
     http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html
