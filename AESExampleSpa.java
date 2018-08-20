@@ -7,10 +7,10 @@
     entrar a la carpeta lib correspondiente y reemplazar los .jar correspondientes en
     dichas carpetas.
 
-    Le doy credito a stuinzuri  por el guardado/lectura de llaves,
-    fue modificada para funcionar con librerias nativas de Java:
+    Le doy gracias a stuinzuri  por el guardado/lectura de llaves,
+    que fue modificada para funcionar con librerias nativas de Java:
     https://github.com/stuinzuri/SimpleJavaKeyStore
-    Y a iterato por el ejemplo AES, fue modificado para que 
+    Y a iterato por el ejemplo AES, que fue modificado para que 
     funcionara con una llave generada aleatoriamente:
     https://gist.github.com/itarato/abef95871756970a9dad
 */
